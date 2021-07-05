@@ -1,3 +1,3 @@
-# My Portfolio
-## Using only HTML,CSS
-### Run mainProgram.html
+## My Portfolio
+### Using only HTML,CSS
+#### Run mainProgram.html
